@@ -15,4 +15,5 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 Hi, my name is mario, i'm a web developer and i know how to work with C++, OpenGL, C# and various javascript frameworks like vue and react.
-I'm currently learning to use AI to improve my work.
+
+I'm currently learning how to use AI to improve my work.
